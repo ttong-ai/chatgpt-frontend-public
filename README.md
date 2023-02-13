@@ -9,4 +9,6 @@ Follow me on:
 [LinkedIn](https://www.linkedin.com/in/ttong/)
 
 
+You may deploy your frontend with [Repl](https://replit.com) or other hosting services.
+
 ![ChatWithFuture](screenshot.png)
